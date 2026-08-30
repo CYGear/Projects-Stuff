@@ -1,0 +1,17 @@
+body {
+    background-color: #1e1e1e;
+    margin: 0;
+    padding: 0;
+}
+
+.page-title {
+    font-size: 48px;
+    color: cyan;
+    font-family: "JetBrainsMono Nerd Font", monospace;
+}
+
+.languages-used {
+    font-size: 18px;
+    color: green;
+    font-family: "JetBrainsMono Nerd Font", monospace;
+}
